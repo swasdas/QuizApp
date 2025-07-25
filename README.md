@@ -27,10 +27,4 @@ https://github.com/user-attachments/assets/aac94b26-98e5-4211-8bfb-c8b39a06a1f8
 
 ---
 
-This may look like a simple project, but it offers good revision of backend concepts. Happy learning! 🙂
-
-
-
-
-
-
+### This may look like a simple project, but it offers good revision of backend concepts. Happy learning! 🙂
