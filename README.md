@@ -1,7 +1,9 @@
 # QuizApp
-Spring Project
+**Tech Stack**: Java 17, Spring Project, PostgreSQL, JPA, Maven, Lombok, Postman, Git 
 
 Refer to the issue fixes for this project [here](/Issue-Fixes.md).
+
+---
 
 ### API-1 Demo: Get all Questions
 https://github.com/user-attachments/assets/6523f32c-1c80-418f-9c26-6b7316d8720e
